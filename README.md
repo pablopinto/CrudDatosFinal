@@ -20,8 +20,8 @@ En esta nueva versión he incorporado un login en el cual has de registrarte par
 
 Por ultimo el codigo del Hash-Map que no le pude mostrar
 
-`
- <%
+```java
+ 
             HashMap<String, String> listaProyectos = new HashMap();
             listaProyectos.put("1", "Crud");
             listaProyectos.put("2", "Uno");
@@ -32,6 +32,5 @@ Por ultimo el codigo del Hash-Map que no le pude mostrar
             listaProyectos.put("7", "Seis");
             listaProyectos.put("8", "Siete");
             listaProyectos.put("9", "Ocho");
-        %>
         
-`
+```
