@@ -17,3 +17,21 @@ En esta nueva versión he incorporado un login en el cual has de registrarte par
 
 ### Lista de Proyectos.
 <img src="Capturas/Proyectos.png"/>
+
+Por ultimo el codigo del Hash-Map que no le pude mostrar
+
+`
+ <%
+            HashMap<String, String> listaProyectos = new HashMap();
+            listaProyectos.put("1", "Crud");
+            listaProyectos.put("2", "Uno");
+            listaProyectos.put("3", "Dos");
+            listaProyectos.put("4", "Tres");
+            listaProyectos.put("5", "Cuatro");
+            listaProyectos.put("6", "Cinco");
+            listaProyectos.put("7", "Seis");
+            listaProyectos.put("8", "Siete");
+            listaProyectos.put("9", "Ocho");
+        %>
+        
+`
