@@ -1,0 +1,30 @@
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
+.titulo{
+    font-size: 27px;
+    padding: 10px;
+}
+.centrado{
+    width:800px; 
+    margin:0 auto;
+}
+.boton{
+    margin-left:40%;
+    margin-top: 5%;
+}
+
+h1{
+    padding-left: 30%;
+}
+/*----------------------------------*/
+
+
