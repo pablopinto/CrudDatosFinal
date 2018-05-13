@@ -1,16 +1,19 @@
 # CrudDatosFinal
 En esta nueva versión he incorporado un login en el cual has de registrarte para poder loguearte en la aplicacion, ademas de esto, he incorporado la el hashmap y utilizado un patron Dao en el proyecto , tambien he cambiado la organizacion de las paginas y su acceso asi como el estilo css.
-### Login: Aparece un formulario para introducir el nombre de usuario y la contraseña.
-<img src="capturas/login.jpeg"/>
+### Login de la aplicacion.
+<img src="CrudDatosFinal/Capturas/Captura de pantalla (243).png"/>
 
-### Login: Aparece un formulario para introducir el nombre de usuario y la contraseña.
-<img src="capturas/login.jpeg"/>
+### Tabla Principal
+<img src="CrudDatosFinal/Capturas/Captura de pantalla (244).png"/>
 
-### Login: Aparece un formulario para introducir el nombre de usuario y la contraseña.
-<img src="capturas/login.jpeg"/>
+### Alta de usuarios.
+<img src="CrudDatosFinal/Capturas/Captura de pantalla (245).png"/>
 
-### Login: Aparece un formulario para introducir el nombre de usuario y la contraseña.
-<img src="capturas/login.jpeg"/>
+### Tabla de Modificacion
+<img src="CrudDatosFinal/Capturas/Captura de pantalla (246).png"/>
 
-### Login: Aparece un formulario para introducir el nombre de usuario y la contraseña.
-<img src="capturas/login.jpeg"/>
+### Tabla de Baja/Eliminacion
+<img src="CrudDatosFinal/Capturas/Captura de pantalla (247).png"/>
+
+### Lista de Proyectos.
+<img src="CrudDatosFinal/Capturas/Captura de pantalla (248).png"/>
